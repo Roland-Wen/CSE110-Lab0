@@ -24,7 +24,7 @@
 <!-- -->
 
 ### Section Link
-Just a [link](https://github.com/Roland-Wen/CSE-110-Lab0/blob/VS-Code/index.md#favorite-vtuber) to the favorite vtuber section
+Just a [link](https://roland-wen.github.io/CSE110-Lab0/#favorite-vtuber) to the favorite vtuber section
 
 ### Anime Recommendations
 1. No Game No Life
